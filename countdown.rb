@@ -15,3 +15,4 @@ def countdown_with_sleep(seconds_to_midnight)
   seconds_to_midnight -= 1 
 end 
 "Happy New Year!"
+end
